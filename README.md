@@ -49,7 +49,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 - [bati](https://github.com/batijs/bati) - Scaffolding a Vike project.
 - [create-awesome-node-app](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
 - [create-nitro-app](https://github.com/nitrojs/create-nitro-app) - Scaffolding your Full-Stack Vite project using Nitro.
-- [create-vite-taro](https://github.com/sep2/vite-plugin-taro/tree/main/packages/create-vite-taro) - Scaffolding a Taro 4 + React 19 + Vite 8 Project.
+- [create-vite-taro](https://github.com/sep2/vite-plugin-taro/tree/main/packages/create-vite-taro) - Scaffolding a Taro + React + Vite Project.
 
 ### Templates
 
@@ -211,7 +211,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ### Taro
 
-- [Taro](https://github.com/sep2/vite-plugin-taro) - Build WeChat Mini Apps with the latest standard frontend stack: Vite 8, Taro 4, React 19, and Tailwind CSS v4.
+- [Taro](https://github.com/sep2/vite-plugin-taro) - Build WeChat Mini Apps with the latest standard frontend stack: Vite + Taro + React + Tailwind CSS.
 
 #### Neutralino
 
